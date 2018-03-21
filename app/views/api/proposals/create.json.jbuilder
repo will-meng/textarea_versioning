@@ -1,0 +1,1 @@
+json.extract! @proposal, :id, :title, :description, :author_id
